@@ -1,2 +1,3 @@
 # hello-everyone
-Trying hands on my first repository
+Trying my hands on creation of a repository!
+
